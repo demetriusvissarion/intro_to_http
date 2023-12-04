@@ -75,3 +75,29 @@ OK`:
   ---
 
 </details>
+
+
+Output:
+{
+    "args": {},
+    "data": {},
+    "files": {},
+    "form": {
+        "title": "Welcome"
+    },
+    "headers": {
+        "x-forwarded-proto": "https",
+        "x-forwarded-port": "443",
+        "host": "postman-echo.com",
+        "x-amzn-trace-id": "Root=1-656dbb8c-3182ec6065c24de046e30063",
+        "content-length": "167",
+        "user-agent": "PostmanRuntime/7.35.0",
+        "accept": "*/*",
+        "postman-token": "4bf284a4-4b6b-4843-8106-bee1b05267cf",
+        "accept-encoding": "gzip, deflate, br",
+        "content-type": "multipart/form-data; boundary=--------------------------317223347939884773109136",
+        "cookie": "sails.sid=s%3AputTyawoEB4wkOFaS3BPxadTKIImwlga.I2b1qxHheRbQQvXcO9lqqavp51BZRqRjUUkq0ng%2B1TQ"
+    },
+    "json": null,
+    "url": "https://postman-echo.com/post"
+}
